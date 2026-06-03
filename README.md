@@ -109,7 +109,7 @@ The dataset was sourced from **Kaggle** and contains **7,043 rows and 23 attribu
 
 The project includes the following files:
 
-* 📑 **Report**: https://github.com/ANUPRIYAROYANU/TELCO-CHURN-ANALYSIS/blob/main/REPORT.docx – Formal written report.
+* 📑 **Report**: https://github.com/Vivekbakade/TELCO-CHURN-ANALYSIS-/tree/main
 * 🗂 **Raw Data**: https://github.com/ANUPRIYAROYANU/TELCO-CHURN-ANALYSIS/blob/main/RAW%20DATA.xlsx
 * 📝 **SQL Queries**: Not all queries are uploaded.
 * 📊 **Power BI Dashboard**: https://github.com/ANUPRIYAROYANU/TELCO-CHURN-ANALYSIS/blob/main/DASHBOARDS.pbix
